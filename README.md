@@ -1,4 +1,4 @@
-# diagrama_de_doby
+# diagrama_de_bode
 
 O diagrama de Bode é uma ferramenta gráfica utilizada na engenharia e na teoria de controle para representar a resposta em frequência de sistemas lineares e invariantes no tempo. Ele é composto por dois gráficos separados, ambos plotados em função da frequência:
 
